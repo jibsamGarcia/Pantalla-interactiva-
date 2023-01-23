@@ -1,1 +1,1 @@
-Pantalla interactiva, reconocimeinto de pose
+Pantalla interactiva, reconocimiento de pose
